@@ -1,4 +1,4 @@
-github "goaairlines/SKCore" "1b2e0e06930ad8fd21c1cf143d6b9229b7eb99ef"
-github "goaairlines/SKClient" "43f76c82ed48dd13e7daa1192f5d7fa262ec0966"
-github "goaairlines/SKRTMAPI" "eaedab0fabe5b3b0b8e4388c2f043a5c75df2b3d"
-github "goaairlines/SKServer" "89bc255014c2ac527b4bed27395f7b8bd010b89d"
+github "goaairlines/SKCore" "master"
+github "goaairlines/SKClient" "master"
+github "goaairlines/SKRTMAPI" "master"
+github "goaairlines/SKServer" "master"
